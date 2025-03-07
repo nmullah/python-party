@@ -1,5 +1,5 @@
 # python-party
 
-Greetings Mr. Li,
+Greetings,
 
-After a solid brush up on material, I was able to create a Google Search Query that would display the input of the user. The code worked in VS Code however for some reason would not show up when tested in the GitHub IDE. It's a simple solution so I'm hoping the logic will be easy to follow hopefully..
+This repository contains beginner-intermediate practice problems using Python. As a bio grad from ucsb, my tech experience is existent! but must be deepened. I'm hoping to bridge gaps in our knowledge of our biology and the world, coding/ML/AI tools are the forefront of executing this change!!
